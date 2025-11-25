@@ -121,10 +121,10 @@ Each model I create, each mechanism I design, and each problem I solve strengthe
 If you're working on something similar, feel free to connect or collaborate.
 
 <a href="https://github.com/SleepyAIBot/Portfolio/blob/main/Sameer%20Patwardhan%20CV.pdf">
-<h2>My_Resume</h2>
+My Resume
 </a>
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/sameerpatwardhan11/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32">
 </a>
