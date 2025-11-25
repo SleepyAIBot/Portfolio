@@ -121,7 +121,7 @@ Each model I create, each mechanism I design, and each problem I solve strengthe
 If you're working on something similar, feel free to connect or collaborate.
 
 <a href="https://github.com/SleepyAIBot/Portfolio/blob/main/Sameer%20Patwardhan%20CV.pdf">
-<h2>Check My Resume</h2>
+<h2>My_Resume</h2>
 </a>
 
 ## Contact Me
