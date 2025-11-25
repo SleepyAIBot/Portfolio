@@ -90,7 +90,7 @@ To complement mechanical design, I’m developing programming skills in:
 <li>Python — scripting, problem-solving, automation</li>
 
 <li>C++ — essential for robotics, embedded logic, and ROS</li>
-
+</ul>
 These are still early-stage skills, but they’re critical for my long-term robotics goals.
 
 <h2>🎯 Long-Term Goal: Humanoid Robotics</h2>
@@ -98,7 +98,7 @@ These are still early-stage skills, but they’re critical for my long-term robo
 My vision is to contribute meaningfully to advanced humanoid systems — robots that move and interact with the world intelligently.
 
 To get there, I’m focusing on:
-
+<ul>
 <li>Mechanical design</li>
 
 <li>Simulation & analysis</li>
@@ -108,7 +108,7 @@ To get there, I’m focusing on:
 <li>ROS and control logic</li>
 
 <li>Real engineering projects</li>
-
+</ul>
 Every project moves me one step closer.
 
 <h2>✨ Closing Thoughts</h2>
